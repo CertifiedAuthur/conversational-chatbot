@@ -1,3 +1,8 @@
+![convo_chatbot](https://github.com/user-attachments/assets/2daa23f4-4114-492c-bd3c-e45419b72902)
+
+
+
+
 # Conversational Q&A Chatbot
 
 Welcome to the **Conversational Q&A Chatbot** project! This chatbot is designed to provide engaging and interactive conversations by utilizing OpenAI's powerful language models. The chatbot is built using Streamlit for the user interface, allowing users to input queries and receive intelligent, context-aware responses.
